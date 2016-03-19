@@ -16,7 +16,7 @@ import java.util.Map;
 import java.util.concurrent.ExecutionException;
 
 /**
- * TODO: Description
+ * This class represents an HTTP request.
  *
  * @author Quentin Brault
  * @since 2016/03/16

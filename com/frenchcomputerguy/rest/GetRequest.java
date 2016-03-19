@@ -5,7 +5,7 @@ import com.frenchcomputerguy.utils.JSONElement;
 import java.util.Map;
 
 /**
- * TODO: Description
+ * This class represents an HTTP GET request.
  *
  * @author Quentin Brault
  * @since 2016/03/16
